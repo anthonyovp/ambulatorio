@@ -80,7 +80,7 @@
                         <ul class="dropdown-menu dropdown-user">
                             <li>
                                 <a href="profile.html">
-                                    <i class="fa fa-user"></i> My Perfil
+                                    <i class="fa fa-user"></i> Mi Perfil
                                 </a>
                             </li>
                             <li>
@@ -130,7 +130,7 @@
                     <!-- begin SIDE NAV SEARCH -->
                     <li class="nav-search">
                         <form role="form">
-                            <input type="search" class="form-control" placeholder="Search...">
+                            <input type="search" class="form-control" placeholder="Buscar...">
                             <button class="btn">
                                 <i class="fa fa-search"></i>
                             </button>

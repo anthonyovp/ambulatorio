@@ -17,7 +17,7 @@
                             </ol>
 
 <div class="col-lg-11">
-                                <div class="portlet portlet-red">
+                                <div class="portlet portlet-green">
                           <div class="portlet-heading">
                                         <div class="portlet-title">
                                             <h4>Registrar Persona</h4>
@@ -63,7 +63,7 @@
 {!! Form::submit('Registrar',['class'=>'btn btn-primary']); !!}
 
         <div id="profile-settings" class="tab-pane fade">
-holaaaa
+
            </div>
 </div>
 </div>

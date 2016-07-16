@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  
 <!-- Mirrored from themes.startbootstrap.com/flex-admin-v1.2/login-social.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 27 Mar 2016 11:00:58 GMT -->
 <head>
 

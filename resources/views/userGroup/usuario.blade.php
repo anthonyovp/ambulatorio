@@ -17,7 +17,7 @@
                             </ol>
 
 <div class="col-lg-11">
-                                <div class="portlet portlet-red">
+                                <div class="portlet portlet-green">
                           <div class="portlet-heading">
                                         <div class="portlet-title">
                                             <h4>Registrar Usuario</h4>
