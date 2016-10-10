@@ -18,7 +18,7 @@ class CreateUtenciliosTable extends Migration
             $table->integer('usuario_ini_id');
             $table->integer('usuario_act_id');
             $table->integer('usuario_eli_id');
-            $table->integer('estado_id');
+            $table->string('estatus');
             $table->timestamps();
             $table->date('fecha_eli')->nullable();
            

@@ -15,11 +15,11 @@ class CreateMedicamentosTable extends Migration
         Schema::create('medicamentos', function (Blueprint $table) {
             $table->increments('id');
             $table->string('nombre');
+            $table->string('estatus');
             $table->integer('cantidad');
             $table->integer('usuario_ini_id');
             $table->integer('usuario_act_id');
             $table->integer('usuario_eli_id');
-            $table->integer('estado_id');
             $table->timestamps();
             $table->date('fecha_eli')->nullable();
            
